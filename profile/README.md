@@ -1,2 +1,1 @@
-# .github
-Our README
+# Qtrl Alt Queer
