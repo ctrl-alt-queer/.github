@@ -1,4 +1,4 @@
-# Qtrl Alt Queer
+# Ctrl Alt Queer
 
 ### Events:
 
