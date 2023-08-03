@@ -2,6 +2,8 @@
 
 ### Events:
 
+- Thursday, August 3rd 2023, 18:00 (Oslo, Postkontoret)
+
 - Tuesday, August 15th 2023, 18:00 (Oslo, location will be announced)
 
 - Wednesday, September 13th 2023, 18:00 (Oslo, location will be announced)
