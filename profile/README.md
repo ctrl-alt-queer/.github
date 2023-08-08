@@ -6,7 +6,7 @@ We're a meetup organization for LGBTQ+ people in the tech industry in Norway. Ou
 
 - Thursday, August 3rd 2023, 18:00 (Oslo, Postkontoret)
 
-- Tuesday, August 15th 2023, 18:00 (Oslo, location will be announced)
+- Tuesday, August 15th 2023, 18:00 (Oslo, Postkontoret)
 
 - Wednesday, September 13th 2023, 18:00 (Oslo, location will be announced)
 
