@@ -2,6 +2,8 @@
 
 We're a meetup organization for LGBTQ+ people in the tech industry in Norway. Our events are generally in the Oslo area. All our events are free to attend.
 
+Contact: post@ctrl-alt-queer.no
+
 ### Events:
 
 - Thursday, August 3rd 2023, 18:00 (Oslo, Postkontoret)
