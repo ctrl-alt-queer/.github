@@ -6,17 +6,23 @@ Contact: post@ctrl-alt-queer.no
 
 ### Upcoming Events:
 
-- Thursday, December 7th 2023, 18:00 (Oslo, Postkontoret)
+- Wednesday, April 17 2024, 18:00 (Oslo, Postkontoret)
+
+- Thursday, May 30 2024, 18:00 (Oslo, Postkontoret)
 
 ### Past events:
 
-- Thursday, August 3rd 2023, 18:00 (Oslo, Postkontoret)
+- Thursday, August 3 2023, 18:00 (Oslo, Postkontoret)
 
-- Tuesday, August 15th 2023, 18:00 (Oslo, Postkontoret)
+- Tuesday, August 15 2023, 18:00 (Oslo, Postkontoret)
 
-- Wednesday, September 13th 2023, 18:00 (Oslo, Postkontoret)
+- Wednesday, September 13 2023, 18:00 (Oslo, Postkontoret)
 
-- Tuesday, October 24rd 2023, 18:00 (Oslo, Postkontoret)
+- Tuesday, October 24 2023, 18:00 (Oslo, Postkontoret)
+
+- Thursday, December 7 2023, 18:00 (Oslo, Postkontoret)
+
+- Tuesday, March 5 2024, 18:00 (Oslo, Postkontoret)
 
 ### Code Of Conduct
 
