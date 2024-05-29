@@ -2,7 +2,10 @@
 
 We're a meetup organization for LGBTQ+ people in the tech industry in Norway. Our events are generally in the Oslo area. All our events are free to attend.
 
-Contact: post@ctrl-alt-queer.no
+Contact:
+
+- email: post@ctrl-alt-queer.no
+- [Join out Slack](https://join.slack.com/t/ctrlaltqueer/shared_invite/zt-2jp5e7sjp-IQbH6wtf4Vdh2qmlXAiv0w) (this invite link is valid 30 days; if it doesn't work, let us know!) 
 
 ### Upcoming Events:
 
