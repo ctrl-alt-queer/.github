@@ -9,7 +9,7 @@ Contact:
 
 ### Upcoming Events:
 
-- Thursday, May 30 2024, 18:00 (Oslo, Postkontoret)
+- Wednesday, June 26th 2024, 18:00 (Oslo, Pride Park Sofienbergparken)
 
 ### Past events:
 
@@ -27,6 +27,8 @@ Contact:
 
 - Wednesday, April 17 2024, 18:00 (Oslo, Postkontoret)
 
+- Thursday, May 30 2024, 18:00 (Oslo, Postkontoret)
+- 
 ### Code Of Conduct
 
 https://berlincodeofconduct.org/
