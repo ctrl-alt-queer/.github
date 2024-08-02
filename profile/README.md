@@ -9,6 +9,12 @@ Contact:
 
 ### Upcoming Events:
 
+- Tuesday, August 20 2024, 18:00 (Oslo, RØØR)
+
+- Wednesday, October 2 2024, 18:00
+
+- Thursday, November 14 2028, 18:00
+
 ### Past events:
 
 - Thursday, August 3 2023, 18:00 (Oslo, Postkontoret)
@@ -27,9 +33,9 @@ Contact:
 
 - Thursday, May 30 2024, 18:00 (Oslo, Postkontoret)
 
-- Wednesday, June 26th 2024, 18:00 (Oslo, Pride Park Sofienbergparken)
+- Wednesday, June 26 2024, 18:00 (Oslo, Pride Park Sofienbergparken)
 
-- Tuesday, July 23rd 2024, 18:00 (Oslo, Postkontoret)
+- Tuesday, July 23 2024, 18:00 (Oslo, Postkontoret)
 
 ### Code Of Conduct
 
