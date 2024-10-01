@@ -11,7 +11,7 @@ Contact:
 
 - Tuesday, August 20 2024, 18:00 (Oslo, RØØR)
 
-- Wednesday, October 2 2024, 18:00
+- Wednesday, October 2 2024, 18:00 (Oslo, RØØR)
 
 - Thursday, November 14 2028, 18:00
 
