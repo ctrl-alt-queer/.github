@@ -8,8 +8,6 @@ Contact:
 
 ### Upcoming Events:
 
-- Tuesday, January 21 2025, 18:00 (Oslo, RØØR)
-
 ### Past events:
 
 - Thursday, August 3 2023, 18:00 (Oslo, Postkontoret)
@@ -37,6 +35,8 @@ Contact:
 - Wednesday, October 2 2024, 18:00 (Oslo, RØØR)
 
 - Thursday, November 14 2024, 18:00 (Oslo, RØØR)
+
+- Tuesday, January 21 2025, 18:00 (Oslo, RØØR)
 
 ### Code Of Conduct
 
