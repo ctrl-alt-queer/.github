@@ -4,8 +4,7 @@ We're a meetup organization for LGBTQ+ people in the tech industry in Norway. Ou
 
 Contact:
 
-- email: post@ctrl-alt-queer.no
-- [Join our Slack](https://join.slack.com/t/ctrlaltqueer/shared_invite/zt-3253q1xv6-uauU4Ythua47dIMdLreG2Q) (this invite link is valid 30 days; if it doesn't work, let us know!) 
+- [Join our Slack](https://join.slack.com/t/ctrlaltqueer/shared_invite/zt-3253q1xv6-uauU4Ythua47dIMdLreG2Q)
 
 ### Upcoming Events:
 
